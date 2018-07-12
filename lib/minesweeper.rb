@@ -12,7 +12,7 @@ class Minesweeper
 
 
 	def initialize(dimension, difficulty)
-		# display_winners
+    Utils.clear_screen
 		@input = InputData.new(dimension, difficulty)
 	  @flags_remaining = @input.mines
     @board = GameBoard.new(@input.dimension, @input.mines)

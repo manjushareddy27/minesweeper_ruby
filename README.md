@@ -1,7 +1,7 @@
 # minesweeper_ruby
 
 
-This is a game of Minesweeper built in Ruby. It is played in the terminal. To play, run the command /bin/minesweeper.rb. This version of Minesweeper proggrammed for below requirement and also created  Minesweeper game logic in https://github.com/manjushareddy27/Minesweepers 
+This is a game of Minesweeper built in Ruby. It is played in the terminal. To play, run the command ./bin/minesweeper.rb. This version of Minesweeper proggrammed for below requirement and also created  Minesweeper game logic in https://github.com/manjushareddy27/Minesweepers 
 
 Requirement:
 

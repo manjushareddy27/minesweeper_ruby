@@ -20,19 +20,19 @@ module Utils
     print "welcome to Minesweeper!\n"
   end
 
-  def print_mine_message
+  def self.print_mine_message
     print "BOOM! You're dead!"
   end
 
-  def print_game_over_message
+  def self.print_game_over_message
     print "GAME OVER"
   end
 
-  def clear_screen
+  def self.clear_screen
     system("clear")
   end
   
-  def print_win_message
+  def self.print_win_message
     print "Congrats! You won the game!"
   end
 end
